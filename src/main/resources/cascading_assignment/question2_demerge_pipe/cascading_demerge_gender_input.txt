@@ -1,0 +1,11 @@
+name;gender
+Prince;M
+Suman;M
+Sushant;M
+Gaurab;M
+Amrit;M
+Sujan;M
+Kamana;F
+Niza;F
+Pragati;F
+RamBadhur;U

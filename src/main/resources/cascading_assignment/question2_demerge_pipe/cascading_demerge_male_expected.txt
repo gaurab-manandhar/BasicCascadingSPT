@@ -1,0 +1,7 @@
+name|gender
+Prince|M
+Suman|M
+Sushant|M
+Gaurab|M
+Amrit|M
+Sujan|M

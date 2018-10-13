@@ -1,0 +1,4 @@
+name|gender
+Kamana|F
+Niza|F
+Pragati|F
