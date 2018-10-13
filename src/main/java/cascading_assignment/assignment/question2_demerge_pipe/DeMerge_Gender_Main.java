@@ -12,7 +12,7 @@ import cascading.tap.local.FileTap;
 import cascading.tuple.Fields;
 import cascading_assignment.function.GenderFilter;
 
-public class DeMerge_Pipe_Main {
+public class DeMerge_Gender_Main {
     /**
      *Question 2:------Demerge a single pipe to mPipe and fPipe on the basis of gender “M” and “F”.
      */

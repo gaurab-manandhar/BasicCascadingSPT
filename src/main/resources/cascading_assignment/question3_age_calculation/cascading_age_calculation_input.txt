@@ -1,0 +1,5 @@
+name;date_of_birth
+"MotiRam Manandhar";"1990-08-22"
+"Ram Manandhar";"1991-08-22"
+"Hari Manandhar";"1995-08-22"
+"Shyam Manandhar";"1996-08-22"
