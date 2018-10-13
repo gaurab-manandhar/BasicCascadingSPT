@@ -1,0 +1,9 @@
+id~ssn~name
+1~980104997~Gaurab
+1~9860795~Saurav
+2~980104997~Shyam
+2~984129153~MotiRam
+3~98010499~Paras
+3~980104997~Sabin
+4~980104997~Shristi
+4~98416018~Gagan
